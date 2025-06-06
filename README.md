@@ -23,6 +23,7 @@ The starter theme includes an integration of:
 
 - Set the default page width to 1440px and tweaked the desktop page width range to be 1200px to 1600px with a step adjustment of 10px (standard desktop width used at Trellis and allows for more fine tuning)
 - There is a page template called `noindexnofollow` with the meta tag `noindex, nofollow` for any pages that need to be hidden from search engine site crawlers
+- Added an optional "Industrial" preset with its own `industrial.css` file. The stylesheet loads only when this preset is selected in the theme settings.
 
 ## Steps to Start Using this Starter Theme
 
