@@ -8,6 +8,21 @@
     "theme_support_url": "https://support.shopify.com/"
   },
   {
+    "name": "Theme style",
+    "settings": [
+      {
+        "type": "select",
+        "id": "theme_preset",
+        "label": "Theme style preset",
+        "options": [
+          { "value": "Default", "label": "Default" },
+          { "value": "Industrial", "label": "Industrial" }
+        ],
+        "default": "Default"
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.logo.name",
     "settings": [
       {

@@ -3,6 +3,7 @@
   "presets": {
     "Default": {
       "logo_width": 90,
+      "theme_preset": "Default",
       "color_schemes": {
         "scheme-1": {
           "settings": {
